@@ -1,0 +1,1012 @@
+[14-Nov-2017 22:58:30 UTC] getFilteredApplication: interests are Array
+(
+    [status] => 0
+)
+
+[14-Nov-2017 22:59:41 UTC] getFilteredApplication: interests are Array
+(
+    [status] => 0
+)
+
+[14-Nov-2017 23:00:18 UTC] getFilteredApplication: interests are Array
+(
+    [status] => 0
+)
+
+[14-Nov-2017 23:00:25 UTC] deleteApplication, id is 13
+[14-Nov-2017 23:00:25 UTC] deleteApplication results: 1
+[14-Nov-2017 23:00:26 UTC] getFilteredApplication: interests are Array
+(
+    [status] => 0
+)
+
+[14-Nov-2017 23:01:18 UTC] getFilteredApplication: interests are Array
+(
+    [status] => 0
+)
+
+[14-Nov-2017 23:01:25 UTC] getFilteredApplication: interests are Array
+(
+    [status] => 0
+)
+
+[16-Nov-2017 01:21:39 UTC] hide_slider value is 1
+[16-Nov-2017 19:52:49 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/mario/code/wordpress/ccc/wp-includes/update.php on line 131
+[16-Nov-2017 19:52:49 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/mario/code/wordpress/ccc/wp-includes/update.php on line 323
+[16-Nov-2017 19:52:49 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/mario/code/wordpress/ccc/wp-includes/update.php on line 501
+[16-Nov-2017 19:53:23 UTC] hide_slider value is 1
+[16-Nov-2017 19:53:23 UTC] recognized carousel 1 output 
+[16-Nov-2017 19:53:23 UTC] sidebar builder for ccc_carousel_1
+[16-Nov-2017 19:53:23 UTC] sidebar builder show is 1
+[16-Nov-2017 19:53:23 UTC] sidebar builder show is 
+[16-Nov-2017 19:53:23 UTC] sidebar builder show is <p style="text-align: center;font-size: 2em"><strong>THANK YOU FOR YOUR GENEROSITY &amp; SUPPORT</strong></p>
+[16-Nov-2017 19:53:23 UTC] sidebar builder show is back image 
+[16-Nov-2017 19:53:23 UTC] sidebar builder show is back x 
+[16-Nov-2017 19:53:23 UTC] sidebar builder show is back y top
+[16-Nov-2017 19:53:23 UTC] sidebar builder show is back size contain
+[16-Nov-2017 19:53:23 UTC] sidebar builder show is back repeat 0
+[16-Nov-2017 19:53:23 UTC] sidebar builder show is attachment 0
+[16-Nov-2017 19:53:23 UTC] sidebar builder show is back color #d8ba75
+[16-Nov-2017 19:53:23 UTC] sidebar builder show is use gradient 0
+[16-Nov-2017 19:53:23 UTC] sidebar builder show is back gradient #727272
+[16-Nov-2017 19:53:23 UTC] sidebar builder show is title color #d4e874
+[16-Nov-2017 19:53:23 UTC] sidebar builder show is desc color #515151
+[16-Nov-2017 19:53:23 UTC] sidebar params are: Array
+(
+    [0] => Array
+        (
+            [name] => Carousel 1
+            [id] => carousel-widget-container-1
+            [description] => The widgets in this container will appear in Carousel 1. Recommended to only use Image widgets in here.
+            [class] => 
+            [before_widget] => <div id="swifty-img-widget-3" class="item">
+            [after_widget] => </div>
+            [before_title] => 
+            [after_title] => 
+            [widget_id] => swifty-img-widget-3
+            [widget_name] => Swifty Image Widget
+        )
+
+    [1] => Array
+        (
+            [number] => 3
+        )
+
+)
+
+[16-Nov-2017 19:53:23 UTC] sidebar params are: Array
+(
+    [0] => Array
+        (
+            [name] => Carousel 1
+            [id] => carousel-widget-container-1
+            [description] => The widgets in this container will appear in Carousel 1. Recommended to only use Image widgets in here.
+            [class] => 
+            [before_widget] => <div id="text-5" class="item">
+            [after_widget] => </div>
+            [before_title] => 
+            [after_title] => 
+            [widget_id] => text-5
+            [widget_name] => Text
+        )
+
+    [1] => Array
+        (
+            [number] => 5
+        )
+
+)
+
+[16-Nov-2017 19:53:23 UTC] recognized carousel 2 output 
+[16-Nov-2017 19:53:23 UTC] sidebar builder for ccc_carousel_2
+[16-Nov-2017 19:53:23 UTC] sidebar builder show is 1
+[16-Nov-2017 19:53:23 UTC] sidebar builder show is 
+[16-Nov-2017 19:53:23 UTC] sidebar builder show is <br>
+<p style="text-align: center;font-size: 2em"><strong>THANK YOU FOR YOUR GENEROSITY &amp; SUPPORT</strong></p>
+[16-Nov-2017 19:53:23 UTC] sidebar builder show is back image 
+[16-Nov-2017 19:53:23 UTC] sidebar builder show is back x 
+[16-Nov-2017 19:53:23 UTC] sidebar builder show is back y 
+[16-Nov-2017 19:53:23 UTC] sidebar builder show is back size 
+[16-Nov-2017 19:53:23 UTC] sidebar builder show is back repeat 
+[16-Nov-2017 19:53:23 UTC] sidebar builder show is attachment 
+[16-Nov-2017 19:53:23 UTC] sidebar builder show is back color #e2c18e
+[16-Nov-2017 19:53:23 UTC] sidebar builder show is use gradient 
+[16-Nov-2017 19:53:23 UTC] sidebar builder show is back gradient 
+[16-Nov-2017 19:53:23 UTC] sidebar builder show is title color 
+[16-Nov-2017 19:53:23 UTC] sidebar builder show is desc color #5b5b5b
+[16-Nov-2017 19:53:23 UTC] sidebar params are: Array
+(
+    [0] => Array
+        (
+            [name] => Carousel 2
+            [id] => carousel-widget-container-2
+            [description] => The widgets in this container will appear in Carousel 2. Recommended to only use Image widgets in here.
+            [class] => 
+            [before_widget] => <div id="text-7" class="item">
+            [after_widget] => </div>
+            [before_title] => 
+            [after_title] => 
+            [widget_id] => text-7
+            [widget_name] => Text
+        )
+
+    [1] => Array
+        (
+            [number] => 7
+        )
+
+)
+
+[16-Nov-2017 19:53:23 UTC] PHP Notice:  Undefined offset: 2 in /Users/mario/code/wordpress/ccc/wp-content/themes/skt-charity/inc/extras.php on line 93
+[16-Nov-2017 19:53:23 UTC] sidebar params are: Array
+(
+    [0] => Array
+        (
+            [name] => Carousel 2
+            [id] => carousel-widget-container-2
+            [description] => The widgets in this container will appear in Carousel 2. Recommended to only use Image widgets in here.
+            [class] => 
+            [before_widget] => <div id="ipw-10" class="item">
+            [after_widget] => </div>
+            [before_title] => 
+            [after_title] => 
+            [widget_id] => ipw-10
+            [widget_name] => Insert Page
+        )
+
+    [1] => Array
+        (
+            [number] => 10
+        )
+
+)
+
+[16-Nov-2017 19:53:23 UTC] recognized 1c1 output 
+[16-Nov-2017 19:53:23 UTC] sidebar params are: Array
+(
+    [0] => Array
+        (
+            [name] => One Column Widget Container 1
+            [id] => one-column-widget-container-1
+            [description] => The widgets added in this widget container will appear int the One Column Container 1.
+            [class] => 
+            [before_widget] => <div id="media_image-23" class="partners">
+            [after_widget] => </div>
+            [before_title] => 
+            [after_title] => 
+            [widget_id] => media_image-23
+            [widget_name] => Image
+        )
+
+    [1] => Array
+        (
+            [number] => 23
+        )
+
+)
+
+[16-Nov-2017 19:53:23 UTC] sidebar params are: Array
+(
+    [0] => Array
+        (
+            [name] => One Column Widget Container 1
+            [id] => one-column-widget-container-1
+            [description] => The widgets added in this widget container will appear int the One Column Container 1.
+            [class] => 
+            [before_widget] => <div id="media_image-24" class="partners">
+            [after_widget] => </div>
+            [before_title] => 
+            [after_title] => 
+            [widget_id] => media_image-24
+            [widget_name] => Image
+        )
+
+    [1] => Array
+        (
+            [number] => 24
+        )
+
+)
+
+[16-Nov-2017 19:53:23 UTC] sidebar params are: Array
+(
+    [0] => Array
+        (
+            [name] => One Column Widget Container 1
+            [id] => one-column-widget-container-1
+            [description] => The widgets added in this widget container will appear int the One Column Container 1.
+            [class] => 
+            [before_widget] => <div id="media_image-25" class="partners">
+            [after_widget] => </div>
+            [before_title] => 
+            [after_title] => 
+            [widget_id] => media_image-25
+            [widget_name] => Image
+        )
+
+    [1] => Array
+        (
+            [number] => 25
+        )
+
+)
+
+[16-Nov-2017 19:53:23 UTC] recognized 1c2 output 
+[16-Nov-2017 19:53:23 UTC] recognized 3c2 output 
+[16-Nov-2017 19:53:23 UTC] recognized 3c1 output 
+[16-Nov-2017 19:53:23 UTC] recognized 5c1 output 
+[16-Nov-2017 19:53:23 UTC] sidebar params are: Array
+(
+    [0] => Array
+        (
+            [name] => Five Column Widget Container 1
+            [id] => five-column-widget-container-1
+            [description] => The widgets added in this widget container will appear int the Five Column Container 1.
+            [class] => 
+            [before_widget] => <div id="media_image-5" class="partners">
+            [after_widget] => </div>
+            [before_title] => <h2 class="widgettitle">
+            [after_title] => </h2>
+
+            [widget_id] => media_image-5
+            [widget_name] => Image
+        )
+
+    [1] => Array
+        (
+            [number] => 5
+        )
+
+)
+
+[16-Nov-2017 19:53:23 UTC] sidebar params are: Array
+(
+    [0] => Array
+        (
+            [name] => Five Column Widget Container 1
+            [id] => five-column-widget-container-1
+            [description] => The widgets added in this widget container will appear int the Five Column Container 1.
+            [class] => 
+            [before_widget] => <div id="media_image-7" class="partners">
+            [after_widget] => </div>
+            [before_title] => <h2 class="widgettitle">
+            [after_title] => </h2>
+
+            [widget_id] => media_image-7
+            [widget_name] => Image
+        )
+
+    [1] => Array
+        (
+            [number] => 7
+        )
+
+)
+
+[16-Nov-2017 19:53:23 UTC] sidebar params are: Array
+(
+    [0] => Array
+        (
+            [name] => Five Column Widget Container 1
+            [id] => five-column-widget-container-1
+            [description] => The widgets added in this widget container will appear int the Five Column Container 1.
+            [class] => 
+            [before_widget] => <div id="media_image-8" class="partners">
+            [after_widget] => </div>
+            [before_title] => <h2 class="widgettitle">
+            [after_title] => </h2>
+
+            [widget_id] => media_image-8
+            [widget_name] => Image
+        )
+
+    [1] => Array
+        (
+            [number] => 8
+        )
+
+)
+
+[16-Nov-2017 19:53:23 UTC] sidebar params are: Array
+(
+    [0] => Array
+        (
+            [name] => Five Column Widget Container 1
+            [id] => five-column-widget-container-1
+            [description] => The widgets added in this widget container will appear int the Five Column Container 1.
+            [class] => 
+            [before_widget] => <div id="media_image-9" class="partners">
+            [after_widget] => </div>
+            [before_title] => <h2 class="widgettitle">
+            [after_title] => </h2>
+
+            [widget_id] => media_image-9
+            [widget_name] => Image
+        )
+
+    [1] => Array
+        (
+            [number] => 9
+        )
+
+)
+
+[16-Nov-2017 19:53:23 UTC] sidebar params are: Array
+(
+    [0] => Array
+        (
+            [name] => Five Column Widget Container 1
+            [id] => five-column-widget-container-1
+            [description] => The widgets added in this widget container will appear int the Five Column Container 1.
+            [class] => 
+            [before_widget] => <div id="media_image-10" class="partners">
+            [after_widget] => </div>
+            [before_title] => <h2 class="widgettitle">
+            [after_title] => </h2>
+
+            [widget_id] => media_image-10
+            [widget_name] => Image
+        )
+
+    [1] => Array
+        (
+            [number] => 10
+        )
+
+)
+
+[16-Nov-2017 19:53:23 UTC] recognized 5c2 output 
+[18-Nov-2017 01:15:35 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/mario/code/wordpress/ccc/wp-includes/update.php on line 131
+[18-Nov-2017 01:15:35 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/mario/code/wordpress/ccc/wp-includes/update.php on line 323
+[18-Nov-2017 01:15:35 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/mario/code/wordpress/ccc/wp-includes/update.php on line 501
+[18-Nov-2017 06:10:01 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/mario/code/wordpress/ccc/wp-includes/update.php on line 131
+[18-Nov-2017 06:10:01 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/mario/code/wordpress/ccc/wp-includes/update.php on line 323
+[18-Nov-2017 06:10:01 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/mario/code/wordpress/ccc/wp-includes/update.php on line 501
+[18-Nov-2017 06:10:01 UTC] hide_slider value is 1
+[18-Nov-2017 06:10:33 UTC] hide_slider value is 1
+[18-Nov-2017 06:10:33 UTC] recognized carousel 1 output 
+[18-Nov-2017 06:10:33 UTC] sidebar builder for ccc_carousel_1
+[18-Nov-2017 06:10:33 UTC] sidebar builder show is 1
+[18-Nov-2017 06:10:33 UTC] sidebar builder show is 
+[18-Nov-2017 06:10:33 UTC] sidebar builder show is <p style="text-align: center;font-size: 2em"><strong>THANK YOU FOR YOUR GENEROSITY &amp; SUPPORT</strong></p>
+[18-Nov-2017 06:10:33 UTC] sidebar builder show is back image 
+[18-Nov-2017 06:10:33 UTC] sidebar builder show is back x 
+[18-Nov-2017 06:10:33 UTC] sidebar builder show is back y top
+[18-Nov-2017 06:10:33 UTC] sidebar builder show is back size contain
+[18-Nov-2017 06:10:33 UTC] sidebar builder show is back repeat 0
+[18-Nov-2017 06:10:33 UTC] sidebar builder show is attachment 0
+[18-Nov-2017 06:10:33 UTC] sidebar builder show is back color #d8ba75
+[18-Nov-2017 06:10:33 UTC] sidebar builder show is use gradient 0
+[18-Nov-2017 06:10:33 UTC] sidebar builder show is back gradient #727272
+[18-Nov-2017 06:10:33 UTC] sidebar builder show is title color #d4e874
+[18-Nov-2017 06:10:33 UTC] sidebar builder show is desc color #515151
+[18-Nov-2017 06:10:33 UTC] sidebar params are: Array
+(
+    [0] => Array
+        (
+            [name] => Carousel 1
+            [id] => carousel-widget-container-1
+            [description] => The widgets in this container will appear in Carousel 1. Recommended to only use Image widgets in here.
+            [class] => 
+            [before_widget] => <div id="swifty-img-widget-3" class="item">
+            [after_widget] => </div>
+            [before_title] => 
+            [after_title] => 
+            [widget_id] => swifty-img-widget-3
+            [widget_name] => Swifty Image Widget
+        )
+
+    [1] => Array
+        (
+            [number] => 3
+        )
+
+)
+
+[18-Nov-2017 06:10:33 UTC] sidebar params are: Array
+(
+    [0] => Array
+        (
+            [name] => Carousel 1
+            [id] => carousel-widget-container-1
+            [description] => The widgets in this container will appear in Carousel 1. Recommended to only use Image widgets in here.
+            [class] => 
+            [before_widget] => <div id="text-5" class="item">
+            [after_widget] => </div>
+            [before_title] => 
+            [after_title] => 
+            [widget_id] => text-5
+            [widget_name] => Text
+        )
+
+    [1] => Array
+        (
+            [number] => 5
+        )
+
+)
+
+[18-Nov-2017 06:10:33 UTC] recognized carousel 2 output 
+[18-Nov-2017 06:10:33 UTC] sidebar builder for ccc_carousel_2
+[18-Nov-2017 06:10:33 UTC] sidebar builder show is 1
+[18-Nov-2017 06:10:33 UTC] sidebar builder show is 
+[18-Nov-2017 06:10:33 UTC] sidebar builder show is <br>
+<p style="text-align: center;font-size: 2em"><strong>THANK YOU FOR YOUR GENEROSITY &amp; SUPPORT</strong></p>
+[18-Nov-2017 06:10:33 UTC] sidebar builder show is back image 
+[18-Nov-2017 06:10:33 UTC] sidebar builder show is back x 
+[18-Nov-2017 06:10:33 UTC] sidebar builder show is back y 
+[18-Nov-2017 06:10:33 UTC] sidebar builder show is back size 
+[18-Nov-2017 06:10:33 UTC] sidebar builder show is back repeat 
+[18-Nov-2017 06:10:33 UTC] sidebar builder show is attachment 
+[18-Nov-2017 06:10:33 UTC] sidebar builder show is back color #e2c18e
+[18-Nov-2017 06:10:33 UTC] sidebar builder show is use gradient 
+[18-Nov-2017 06:10:33 UTC] sidebar builder show is back gradient 
+[18-Nov-2017 06:10:33 UTC] sidebar builder show is title color 
+[18-Nov-2017 06:10:33 UTC] sidebar builder show is desc color #5b5b5b
+[18-Nov-2017 06:10:33 UTC] sidebar params are: Array
+(
+    [0] => Array
+        (
+            [name] => Carousel 2
+            [id] => carousel-widget-container-2
+            [description] => The widgets in this container will appear in Carousel 2. Recommended to only use Image widgets in here.
+            [class] => 
+            [before_widget] => <div id="text-7" class="item">
+            [after_widget] => </div>
+            [before_title] => 
+            [after_title] => 
+            [widget_id] => text-7
+            [widget_name] => Text
+        )
+
+    [1] => Array
+        (
+            [number] => 7
+        )
+
+)
+
+[18-Nov-2017 06:10:33 UTC] PHP Notice:  Undefined offset: 2 in /Users/mario/code/wordpress/ccc/wp-content/themes/skt-charity/inc/extras.php on line 93
+[18-Nov-2017 06:10:33 UTC] sidebar params are: Array
+(
+    [0] => Array
+        (
+            [name] => Carousel 2
+            [id] => carousel-widget-container-2
+            [description] => The widgets in this container will appear in Carousel 2. Recommended to only use Image widgets in here.
+            [class] => 
+            [before_widget] => <div id="ipw-10" class="item">
+            [after_widget] => </div>
+            [before_title] => 
+            [after_title] => 
+            [widget_id] => ipw-10
+            [widget_name] => Insert Page
+        )
+
+    [1] => Array
+        (
+            [number] => 10
+        )
+
+)
+
+[18-Nov-2017 06:10:33 UTC] recognized 1c1 output 
+[18-Nov-2017 06:10:33 UTC] sidebar params are: Array
+(
+    [0] => Array
+        (
+            [name] => One Column Widget Container 1
+            [id] => one-column-widget-container-1
+            [description] => The widgets added in this widget container will appear int the One Column Container 1.
+            [class] => 
+            [before_widget] => <div id="media_image-23" class="partners">
+            [after_widget] => </div>
+            [before_title] => 
+            [after_title] => 
+            [widget_id] => media_image-23
+            [widget_name] => Image
+        )
+
+    [1] => Array
+        (
+            [number] => 23
+        )
+
+)
+
+[18-Nov-2017 06:10:33 UTC] sidebar params are: Array
+(
+    [0] => Array
+        (
+            [name] => One Column Widget Container 1
+            [id] => one-column-widget-container-1
+            [description] => The widgets added in this widget container will appear int the One Column Container 1.
+            [class] => 
+            [before_widget] => <div id="media_image-24" class="partners">
+            [after_widget] => </div>
+            [before_title] => 
+            [after_title] => 
+            [widget_id] => media_image-24
+            [widget_name] => Image
+        )
+
+    [1] => Array
+        (
+            [number] => 24
+        )
+
+)
+
+[18-Nov-2017 06:10:33 UTC] sidebar params are: Array
+(
+    [0] => Array
+        (
+            [name] => One Column Widget Container 1
+            [id] => one-column-widget-container-1
+            [description] => The widgets added in this widget container will appear int the One Column Container 1.
+            [class] => 
+            [before_widget] => <div id="media_image-25" class="partners">
+            [after_widget] => </div>
+            [before_title] => 
+            [after_title] => 
+            [widget_id] => media_image-25
+            [widget_name] => Image
+        )
+
+    [1] => Array
+        (
+            [number] => 25
+        )
+
+)
+
+[18-Nov-2017 06:10:33 UTC] recognized 1c2 output 
+[18-Nov-2017 06:10:34 UTC] recognized 3c2 output 
+[18-Nov-2017 06:10:34 UTC] recognized 3c1 output 
+[18-Nov-2017 06:10:34 UTC] recognized 5c1 output 
+[18-Nov-2017 06:10:34 UTC] sidebar params are: Array
+(
+    [0] => Array
+        (
+            [name] => Five Column Widget Container 1
+            [id] => five-column-widget-container-1
+            [description] => The widgets added in this widget container will appear int the Five Column Container 1.
+            [class] => 
+            [before_widget] => <div id="media_image-5" class="partners">
+            [after_widget] => </div>
+            [before_title] => <h2 class="widgettitle">
+            [after_title] => </h2>
+
+            [widget_id] => media_image-5
+            [widget_name] => Image
+        )
+
+    [1] => Array
+        (
+            [number] => 5
+        )
+
+)
+
+[18-Nov-2017 06:10:34 UTC] sidebar params are: Array
+(
+    [0] => Array
+        (
+            [name] => Five Column Widget Container 1
+            [id] => five-column-widget-container-1
+            [description] => The widgets added in this widget container will appear int the Five Column Container 1.
+            [class] => 
+            [before_widget] => <div id="media_image-7" class="partners">
+            [after_widget] => </div>
+            [before_title] => <h2 class="widgettitle">
+            [after_title] => </h2>
+
+            [widget_id] => media_image-7
+            [widget_name] => Image
+        )
+
+    [1] => Array
+        (
+            [number] => 7
+        )
+
+)
+
+[18-Nov-2017 06:10:34 UTC] sidebar params are: Array
+(
+    [0] => Array
+        (
+            [name] => Five Column Widget Container 1
+            [id] => five-column-widget-container-1
+            [description] => The widgets added in this widget container will appear int the Five Column Container 1.
+            [class] => 
+            [before_widget] => <div id="media_image-8" class="partners">
+            [after_widget] => </div>
+            [before_title] => <h2 class="widgettitle">
+            [after_title] => </h2>
+
+            [widget_id] => media_image-8
+            [widget_name] => Image
+        )
+
+    [1] => Array
+        (
+            [number] => 8
+        )
+
+)
+
+[18-Nov-2017 06:10:34 UTC] sidebar params are: Array
+(
+    [0] => Array
+        (
+            [name] => Five Column Widget Container 1
+            [id] => five-column-widget-container-1
+            [description] => The widgets added in this widget container will appear int the Five Column Container 1.
+            [class] => 
+            [before_widget] => <div id="media_image-9" class="partners">
+            [after_widget] => </div>
+            [before_title] => <h2 class="widgettitle">
+            [after_title] => </h2>
+
+            [widget_id] => media_image-9
+            [widget_name] => Image
+        )
+
+    [1] => Array
+        (
+            [number] => 9
+        )
+
+)
+
+[18-Nov-2017 06:10:34 UTC] sidebar params are: Array
+(
+    [0] => Array
+        (
+            [name] => Five Column Widget Container 1
+            [id] => five-column-widget-container-1
+            [description] => The widgets added in this widget container will appear int the Five Column Container 1.
+            [class] => 
+            [before_widget] => <div id="media_image-10" class="partners">
+            [after_widget] => </div>
+            [before_title] => <h2 class="widgettitle">
+            [after_title] => </h2>
+
+            [widget_id] => media_image-10
+            [widget_name] => Image
+        )
+
+    [1] => Array
+        (
+            [number] => 10
+        )
+
+)
+
+[18-Nov-2017 06:10:34 UTC] recognized 5c2 output 
+[18-Nov-2017 06:10:35 UTC] hide_slider value is 1
+[18-Nov-2017 06:10:35 UTC] recognized carousel 1 output 
+[18-Nov-2017 06:10:35 UTC] sidebar builder for ccc_carousel_1
+[18-Nov-2017 06:10:35 UTC] sidebar builder show is 1
+[18-Nov-2017 06:10:35 UTC] sidebar builder show is 
+[18-Nov-2017 06:10:35 UTC] sidebar builder show is <p style="text-align: center;font-size: 2em"><strong>THANK YOU FOR YOUR GENEROSITY &amp; SUPPORT</strong></p>
+[18-Nov-2017 06:10:35 UTC] sidebar builder show is back image 
+[18-Nov-2017 06:10:35 UTC] sidebar builder show is back x 
+[18-Nov-2017 06:10:35 UTC] sidebar builder show is back y top
+[18-Nov-2017 06:10:35 UTC] sidebar builder show is back size contain
+[18-Nov-2017 06:10:35 UTC] sidebar builder show is back repeat 0
+[18-Nov-2017 06:10:35 UTC] sidebar builder show is attachment 0
+[18-Nov-2017 06:10:35 UTC] sidebar builder show is back color #d8ba75
+[18-Nov-2017 06:10:35 UTC] sidebar builder show is use gradient 0
+[18-Nov-2017 06:10:35 UTC] sidebar builder show is back gradient #727272
+[18-Nov-2017 06:10:35 UTC] sidebar builder show is title color #d4e874
+[18-Nov-2017 06:10:35 UTC] sidebar builder show is desc color #515151
+[18-Nov-2017 06:10:35 UTC] sidebar params are: Array
+(
+    [0] => Array
+        (
+            [name] => Carousel 1
+            [id] => carousel-widget-container-1
+            [description] => The widgets in this container will appear in Carousel 1. Recommended to only use Image widgets in here.
+            [class] => 
+            [before_widget] => <div id="swifty-img-widget-3" class="item">
+            [after_widget] => </div>
+            [before_title] => 
+            [after_title] => 
+            [widget_id] => swifty-img-widget-3
+            [widget_name] => Swifty Image Widget
+        )
+
+    [1] => Array
+        (
+            [number] => 3
+        )
+
+)
+
+[18-Nov-2017 06:10:35 UTC] sidebar params are: Array
+(
+    [0] => Array
+        (
+            [name] => Carousel 1
+            [id] => carousel-widget-container-1
+            [description] => The widgets in this container will appear in Carousel 1. Recommended to only use Image widgets in here.
+            [class] => 
+            [before_widget] => <div id="text-5" class="item">
+            [after_widget] => </div>
+            [before_title] => 
+            [after_title] => 
+            [widget_id] => text-5
+            [widget_name] => Text
+        )
+
+    [1] => Array
+        (
+            [number] => 5
+        )
+
+)
+
+[18-Nov-2017 06:10:35 UTC] recognized carousel 2 output 
+[18-Nov-2017 06:10:35 UTC] sidebar builder for ccc_carousel_2
+[18-Nov-2017 06:10:35 UTC] sidebar builder show is 1
+[18-Nov-2017 06:10:35 UTC] sidebar builder show is 
+[18-Nov-2017 06:10:35 UTC] sidebar builder show is <br>
+<p style="text-align: center;font-size: 2em"><strong>THANK YOU FOR YOUR GENEROSITY &amp; SUPPORT</strong></p>
+[18-Nov-2017 06:10:35 UTC] sidebar builder show is back image 
+[18-Nov-2017 06:10:35 UTC] sidebar builder show is back x 
+[18-Nov-2017 06:10:35 UTC] sidebar builder show is back y 
+[18-Nov-2017 06:10:35 UTC] sidebar builder show is back size 
+[18-Nov-2017 06:10:35 UTC] sidebar builder show is back repeat 
+[18-Nov-2017 06:10:35 UTC] sidebar builder show is attachment 
+[18-Nov-2017 06:10:35 UTC] sidebar builder show is back color #e2c18e
+[18-Nov-2017 06:10:35 UTC] sidebar builder show is use gradient 
+[18-Nov-2017 06:10:35 UTC] sidebar builder show is back gradient 
+[18-Nov-2017 06:10:35 UTC] sidebar builder show is title color 
+[18-Nov-2017 06:10:35 UTC] sidebar builder show is desc color #5b5b5b
+[18-Nov-2017 06:10:35 UTC] sidebar params are: Array
+(
+    [0] => Array
+        (
+            [name] => Carousel 2
+            [id] => carousel-widget-container-2
+            [description] => The widgets in this container will appear in Carousel 2. Recommended to only use Image widgets in here.
+            [class] => 
+            [before_widget] => <div id="text-7" class="item">
+            [after_widget] => </div>
+            [before_title] => 
+            [after_title] => 
+            [widget_id] => text-7
+            [widget_name] => Text
+        )
+
+    [1] => Array
+        (
+            [number] => 7
+        )
+
+)
+
+[18-Nov-2017 06:10:35 UTC] PHP Notice:  Undefined offset: 2 in /Users/mario/code/wordpress/ccc/wp-content/themes/skt-charity/inc/extras.php on line 93
+[18-Nov-2017 06:10:35 UTC] sidebar params are: Array
+(
+    [0] => Array
+        (
+            [name] => Carousel 2
+            [id] => carousel-widget-container-2
+            [description] => The widgets in this container will appear in Carousel 2. Recommended to only use Image widgets in here.
+            [class] => 
+            [before_widget] => <div id="ipw-10" class="item">
+            [after_widget] => </div>
+            [before_title] => 
+            [after_title] => 
+            [widget_id] => ipw-10
+            [widget_name] => Insert Page
+        )
+
+    [1] => Array
+        (
+            [number] => 10
+        )
+
+)
+
+[18-Nov-2017 06:10:35 UTC] recognized 1c1 output 
+[18-Nov-2017 06:10:35 UTC] sidebar params are: Array
+(
+    [0] => Array
+        (
+            [name] => One Column Widget Container 1
+            [id] => one-column-widget-container-1
+            [description] => The widgets added in this widget container will appear int the One Column Container 1.
+            [class] => 
+            [before_widget] => <div id="media_image-23" class="partners">
+            [after_widget] => </div>
+            [before_title] => 
+            [after_title] => 
+            [widget_id] => media_image-23
+            [widget_name] => Image
+        )
+
+    [1] => Array
+        (
+            [number] => 23
+        )
+
+)
+
+[18-Nov-2017 06:10:35 UTC] sidebar params are: Array
+(
+    [0] => Array
+        (
+            [name] => One Column Widget Container 1
+            [id] => one-column-widget-container-1
+            [description] => The widgets added in this widget container will appear int the One Column Container 1.
+            [class] => 
+            [before_widget] => <div id="media_image-24" class="partners">
+            [after_widget] => </div>
+            [before_title] => 
+            [after_title] => 
+            [widget_id] => media_image-24
+            [widget_name] => Image
+        )
+
+    [1] => Array
+        (
+            [number] => 24
+        )
+
+)
+
+[18-Nov-2017 06:10:35 UTC] sidebar params are: Array
+(
+    [0] => Array
+        (
+            [name] => One Column Widget Container 1
+            [id] => one-column-widget-container-1
+            [description] => The widgets added in this widget container will appear int the One Column Container 1.
+            [class] => 
+            [before_widget] => <div id="media_image-25" class="partners">
+            [after_widget] => </div>
+            [before_title] => 
+            [after_title] => 
+            [widget_id] => media_image-25
+            [widget_name] => Image
+        )
+
+    [1] => Array
+        (
+            [number] => 25
+        )
+
+)
+
+[18-Nov-2017 06:10:35 UTC] recognized 1c2 output 
+[18-Nov-2017 06:10:35 UTC] recognized 3c2 output 
+[18-Nov-2017 06:10:35 UTC] recognized 3c1 output 
+[18-Nov-2017 06:10:35 UTC] recognized 5c1 output 
+[18-Nov-2017 06:10:35 UTC] sidebar params are: Array
+(
+    [0] => Array
+        (
+            [name] => Five Column Widget Container 1
+            [id] => five-column-widget-container-1
+            [description] => The widgets added in this widget container will appear int the Five Column Container 1.
+            [class] => 
+            [before_widget] => <div id="media_image-5" class="partners">
+            [after_widget] => </div>
+            [before_title] => <h2 class="widgettitle">
+            [after_title] => </h2>
+
+            [widget_id] => media_image-5
+            [widget_name] => Image
+        )
+
+    [1] => Array
+        (
+            [number] => 5
+        )
+
+)
+
+[18-Nov-2017 06:10:35 UTC] sidebar params are: Array
+(
+    [0] => Array
+        (
+            [name] => Five Column Widget Container 1
+            [id] => five-column-widget-container-1
+            [description] => The widgets added in this widget container will appear int the Five Column Container 1.
+            [class] => 
+            [before_widget] => <div id="media_image-7" class="partners">
+            [after_widget] => </div>
+            [before_title] => <h2 class="widgettitle">
+            [after_title] => </h2>
+
+            [widget_id] => media_image-7
+            [widget_name] => Image
+        )
+
+    [1] => Array
+        (
+            [number] => 7
+        )
+
+)
+
+[18-Nov-2017 06:10:35 UTC] sidebar params are: Array
+(
+    [0] => Array
+        (
+            [name] => Five Column Widget Container 1
+            [id] => five-column-widget-container-1
+            [description] => The widgets added in this widget container will appear int the Five Column Container 1.
+            [class] => 
+            [before_widget] => <div id="media_image-8" class="partners">
+            [after_widget] => </div>
+            [before_title] => <h2 class="widgettitle">
+            [after_title] => </h2>
+
+            [widget_id] => media_image-8
+            [widget_name] => Image
+        )
+
+    [1] => Array
+        (
+            [number] => 8
+        )
+
+)
+
+[18-Nov-2017 06:10:35 UTC] sidebar params are: Array
+(
+    [0] => Array
+        (
+            [name] => Five Column Widget Container 1
+            [id] => five-column-widget-container-1
+            [description] => The widgets added in this widget container will appear int the Five Column Container 1.
+            [class] => 
+            [before_widget] => <div id="media_image-9" class="partners">
+            [after_widget] => </div>
+            [before_title] => <h2 class="widgettitle">
+            [after_title] => </h2>
+
+            [widget_id] => media_image-9
+            [widget_name] => Image
+        )
+
+    [1] => Array
+        (
+            [number] => 9
+        )
+
+)
+
+[18-Nov-2017 06:10:35 UTC] sidebar params are: Array
+(
+    [0] => Array
+        (
+            [name] => Five Column Widget Container 1
+            [id] => five-column-widget-container-1
+            [description] => The widgets added in this widget container will appear int the Five Column Container 1.
+            [class] => 
+            [before_widget] => <div id="media_image-10" class="partners">
+            [after_widget] => </div>
+            [before_title] => <h2 class="widgettitle">
+            [after_title] => </h2>
+
+            [widget_id] => media_image-10
+            [widget_name] => Image
+        )
+
+    [1] => Array
+        (
+            [number] => 10
+        )
+
+)
+
+[18-Nov-2017 06:10:35 UTC] recognized 5c2 output 
+[18-Nov-2017 21:01:31 UTC] hide_slider value is 1
+[18-Nov-2017 21:01:33 UTC] hide_slider value is 1
+[19-Nov-2017 22:07:51 UTC] hide_slider value is 1

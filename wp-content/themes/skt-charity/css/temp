@@ -1,0 +1,61 @@
+dark brown:
+
+4f1f00
+
+lighter brown
+
+taupe?
+f2ebae
+
+hunter green
+0a5b0f *
+
+darker green
+005b06
+
+super dark green
+035103
+
+darkets green
+#033800
+
+ligher green
+237228
+
+lighter green 2
+329335 *
+
+
+light yellow
+e8d8c0
+
+////
+
+//Darkets Green
+.headertop {
+    background-color: #237228;
+    color: #fff;
+}
+
+.innerheader, body.blog .sitenav ul li:hover > ul, .innerheader .sitenav ul li:hover > ul {
+    background-color: #033800!important;
+}
+
+#footer-wrapper {
+    background-color: #033800;
+    position: relative;
+    color: #fff;
+}
+
+// light green
+.copyright-wrapper {
+    background-color: #237228;
+    border-top: 1px solid #333536;
+    position: relative;
+    padding: 15px 0;
+}
+
+// orange strong
+a, .blog_lists h2 a:hover, #sidebar ul li a:hover, .cols-4 ul li a:hover, .cols-4 ul li.current_page_item a, .phone-no strong, .sitenav ul li a:hover, .sitenav ul li.current_page_item a, .logo h1 span, .headertop .left a:hover, .services-wrap .one_third h4, .cols-4 h5 span, .welcomewrap h2 span, .one_four_page:hover h4 a, .one_four_page:hover a.more, .blog_lists h3 a:hover {
+    color: #f25f43;
+}

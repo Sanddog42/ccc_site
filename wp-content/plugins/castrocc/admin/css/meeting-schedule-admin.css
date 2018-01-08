@@ -1,0 +1,58 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ .scheduleDay {
+  min-width: 5em;
+  max-width: 5em;
+  float: left;
+  clear: left;
+}
+
+.scheduleEvents{
+	overflow: auto;
+}
+.scheduleEvent{
+    
+    min-width: 12.6em;
+    max-width: 35em;
+    border:1px solid black;
+    border-left: 10px solid black;
+    overflow: auto;
+
+}
+
+
+.eventLabel{
+  width: 3.5em;
+  float: left;
+  text-align: right;
+  padding-right: 4px;
+  clear: left;
+  overflow: auto;
+}
+
+
+.eventValue{
+  min-width: 10.7em;
+  float: left;
+  padding-left: 4px;
+  overflow: auto;
+
+}
+.eventDescription {
+  min-width: 10.7em;
+  float: left; 
+  padding-left: 4em; 
+  padding-right: 13px;
+}
+
+
+
+@media screen and (max-width: 480px){
+	.scheduleEvents{
+		clear: left;
+	}
+
+}
